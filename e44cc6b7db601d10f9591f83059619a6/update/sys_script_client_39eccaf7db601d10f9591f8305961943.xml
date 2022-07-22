@@ -3,7 +3,7 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>Does nothing. </description>
+        <description>Does nothing and it for purpose of testing</description>
         <field/>
         <global>true</global>
         <isolate_script>true</isolate_script>
@@ -22,7 +22,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>39eccaf7db601d10f9591f8305961943</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Test Client script for GitHub POC</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
@@ -30,8 +30,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Gilead Incident Management">e44cc6b7db601d10f9591f83059619a6</sys_scope>
         <sys_update_name>sys_script_client_39eccaf7db601d10f9591f8305961943</sys_update_name>
-        <sys_updated_by>skokkarachedu</sys_updated_by>
-        <sys_updated_on>2022-07-14 14:31:38</sys_updated_on>
+        <sys_updated_by>sramalingam1</sys_updated_by>
+        <sys_updated_on>2022-07-22 11:48:21</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
